@@ -44,5 +44,5 @@ I've refreshed my knowledge about HTML, CSS and flexbox.
 ## Author
 
 - Website - [https://github.com/aralagdev]
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@aralagdev](https://www.frontendmentor.io/profile/aralagdev)
 
